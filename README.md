@@ -8,3 +8,6 @@ Ensures both fields are filled out.
 Validates password requirements.
 Error Messages: Displays error messages below the corresponding fields when input is invalid.
 Checkbox for "Keep Me Logged In": A checkbox allowing users to select if they want to stay logged in. It updates the console log based on the checkbox state.
+
+
+you can navigate for the home page to the login page and viceversea
