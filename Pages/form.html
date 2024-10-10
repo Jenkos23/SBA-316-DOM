@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="Stylesheet" href="/style.css">
+     <!-- Font Awesome for Icons -->
+    <script
+     src="https://kit.fontawesome.com/d7ba5679d4.js" crossorigin="anonymous">
+    </script>
+</head>
+<body>
+<header><nav id="top-nav"></nav></header>
+<!-- Login Page -->
+<div class="form-container">
+    <h1>Login</h1>
+    <p>Login using your account details</p>
+    <form id ="myForm"   style="border-bottom: 1px solid lightgray">
+        <input name="username"  type="text"   id="username"  placeholder="Username">
+        <span class = "input-icon"> <i class="fa-duotone fa-solid fa-user"></i></span>
+        <span id="usernameError" style="color:rgb(204, 20, 20);"></span><br/><br/>
+
+        <input name = "password" type ="password" id ="password" placeholder="Password">
+        <span class="input-icon"> <i class="fa-solid fa-unlock-keyhole"></i></span>
+        <span id="passwordError" style="color:rgb(224, 15, 15);"></span>
+        <br /><br />
+
+        <div class="flex-row">
+            <input name="persist" type="checkbox"  id ="mycheckbox" />
+            <label for="persist">Keep me logged in.</label>
+            <input type="submit" value="Login" />
+        </div>
+          <br /><br />
+    </form>
+    <p>Forgot your <a href="#">Username</a> or <a href="#">Password?</a></p>
+
+
+</div>
+
+<footer><nav id="footer-nav"></nav></footer>
+
+<script src="/index.js"></script>
+</body> 
+
+
+
+    
+</html>
