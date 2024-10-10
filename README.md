@@ -1,5 +1,5 @@
 # SBA-316-DOM
-This repository contins a simple single page web application for a church content management to manage sermons, invite people to the bible study meeting . It contains a login form allows users to input their username and password, validate their entries, and provide feedback through error messages. It also includes a checkbox for users to choose whether they want to remain logged in.
+This repository contains a simple single page web application for a church content management to manage sermons, invite people to the bible study meeting . It contains a login form allows users to input their username and password, validate their entries, and provide feedback through error messages. It also includes a checkbox for users to choose whether they want to remain logged in.
 
 Features 
 Username and Password Fields: Users can input their login credentials.
