@@ -10,4 +10,4 @@ Error Messages: Displays error messages below the corresponding fields when inpu
 Checkbox for "Keep Me Logged In": A checkbox allowing users to select if they want to stay logged in. It updates the console log based on the checkbox state.
 
 
-you can navigate for the home page to the login page and viceversea
+you can navigate from the home page to the login page and viceversea
