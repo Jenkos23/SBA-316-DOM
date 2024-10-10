@@ -11,3 +11,6 @@ Checkbox for "Keep Me Logged In": A checkbox allowing users to select if they wa
 
 
 you can navigate from the home page to the login page and viceversea
+
+//Report and feedback
+This is so intense and Im trying to do alot at the same time. We need more time to learn and assimulate this. Can you give us more time for assignmentssssss. please
