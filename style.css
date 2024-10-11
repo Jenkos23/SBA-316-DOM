@@ -188,3 +188,44 @@ p strong {
 }
 
 
+
+
+/* Responsive Styles */
+
+/* For mobile devices */
+@media (max-width: 600px) {
+  h1 {
+      font-size: 1.5em; /* Adjust heading size */
+  }
+  .form-container {
+      width: 90%; /* Make form container wider for smaller screens */
+  }
+  nav a {
+      font-size: 0.9em; /* Adjust font size for navigation links */
+  }
+  p {
+      font-size: 0.9em; /* Smaller font size for paragraphs */
+  }
+}
+
+/* For tablets and small laptops */
+@media (max-width: 900px) {
+  h1 {
+      font-size: 2em; /* Increase heading font size for smaller laptops */
+  }
+  .form-container {
+      width: 80%; /* Slightly wider on small laptops */
+  }
+  nav a {
+      font-size: 1em; /* Adjust font size for navigation links */
+  }
+}
+
+/* For larger screens */
+@media (min-width: 901px) {
+  .carousel-inner img {
+      height: 400px; /* Control image height on larger screens */
+  }
+}
+
+
